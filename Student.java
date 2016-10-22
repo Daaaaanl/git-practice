@@ -1,8 +1,8 @@
 public class Student {
-  int age;
-  float gpa;
-  String firstName;
-  String lastName;
+  int    age;
+  float  gpa;
+  private String firstName;
+  private String lastName;
   String major;
 
   public Student() {

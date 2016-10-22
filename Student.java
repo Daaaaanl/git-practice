@@ -18,4 +18,8 @@ public class Student {
   public String fullName() {
     return this.firstName + " " + this.lastName;
   }
+
+  public String getMajor() {
+    return this.major;
+  }
 }
